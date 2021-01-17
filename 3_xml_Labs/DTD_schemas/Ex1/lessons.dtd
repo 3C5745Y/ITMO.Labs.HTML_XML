@@ -1,0 +1,8 @@
+<!ELEMENT timetable (item+)>
+<!ELEMENT item (name, teacher, hours, begin, end, assessment)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT teacher (#PCDATA)>
+<!ELEMENT hours (#PCDATA)>
+<!ELEMENT begin (#PCDATA)>
+<!ELEMENT end (#PCDATA)>
+<!ELEMENT assessment (#PCDATA)>

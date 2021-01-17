@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt:timetable xmlns:tt="http://www.itmo.ru/xml/lessons" xmlns:lit="http://www.itmo.ru/literature">
+	<tt:item>
+		<tt:name>Введение в базы данных</tt:name>
+		<tt:teacher>Ямщиков Д.В.</tt:teacher>
+		<tt:hours>30</tt:hours>
+		<tt:begin>2020-09-28</tt:begin>
+		<tt:end>2020-10-09</tt:end>
+		<tt:assessment>зачет</tt:assessment>
+		<lit:name>"MySQL. Учебное пособие" — Люк Веллинг, Лора Томсон</lit:name>
+	</tt:item>
+	<tt:item>
+		<tt:name>Технологии программирования</tt:name>
+		<tt:teacher>Смольянинов А.В.</tt:teacher>
+		<tt:hours>50</tt:hours>
+		<tt:begin>2020-10-13</tt:begin>
+		<tt:end>2020-10-30</tt:end>
+		<tt:assessment>зачет</tt:assessment>
+		<lit:name>"Логические ошибки"- А.И. Уемов; Дональд Кнут."Искусство программирования"</lit:name>
+	</tt:item>
+	<tt:item>
+		<tt:name>Программирование на С#</tt:name>
+		<tt:teacher>Смольянинов А.В.</tt:teacher>
+		<tt:hours>50</tt:hours>
+		<tt:begin>2020-11-02</tt:begin>
+		<tt:end>2020--11-20</tt:end>
+		<tt:assessment>зачет</tt:assessment>
+		<lit:name>"Язык программирования C#" - Хейлсберг А.; "CLR via C#" -Джеффри Рихтер</lit:name>
+	</tt:item>
+	<tt:item>
+		<tt:name>Transact-SQL и Разработка Microsoft SQL Server</tt:name>
+		<tt:teacher>Ямщиков Д.В.</tt:teacher>
+		<tt:hours>60</tt:hours>
+		<tt:begin>2020-11-30</tt:begin>
+		<tt:end>2020-12-25</tt:end>
+		<tt:assessment>экзамен</tt:assessment>
+		<lit:name>"Язык программирования C#" - Хейлсберг А.; "CLR via C#" -Джеффри Рихтер</lit:name>
+	</tt:item>
+	<tt:item>
+		<tt:name>Основы технологий разметки (HTML, XML)</tt:name>
+		<tt:teacher>Смольянинов А.В.</tt:teacher>
+		<tt:hours>20</tt:hours>
+		<tt:begin>2020-01-11</tt:begin>
+		<tt:end>2020-01-18</tt:end>
+		<tt:assessment>зачет</tt:assessment>
+		<lit:name>https://www.w3.org/</lit:name>
+	</tt:item>
+	<tt:item>
+		<tt:name>Разработка Windows-приложений на C#</tt:name>
+		<tt:teacher>Смольянинов А.В.</tt:teacher>
+		<tt:hours>50</tt:hours>
+		<tt:begin>2020-01-19</tt:begin>
+		<tt:end>2020-02-05</tt:end>
+		<tt:assessment>экзамен</tt:assessment>
+		<lit:name>https://docs.microsoft.com/ru-ru/dotnet/csharp/</lit:name>
+	</tt:item>
+	<tt:item>
+		<tt:name>Программирование на Python</tt:name>
+		<tt:teacher>Осипов Н.А.</tt:teacher>
+		<tt:hours>40</tt:hours>
+		<tt:begin>2020-02-08</tt:begin>
+		<tt:end>2020-02-19</tt:end>
+		<tt:assessment>зачет</tt:assessment>
+		<lit:name>Learning Python</lit:name>
+	</tt:item>
+	<tt:item>
+		<tt:name>Технология ADO.NET</tt:name>
+		<tt:teacher>Ямщиков Д.В.</tt:teacher>
+		<tt:hours>40</tt:hours>
+		<tt:begin>2020-02-22</tt:begin>
+		<tt:end>2020-03-05</tt:end>
+		<tt:assessment>зачет</tt:assessment>
+		<lit:name>Майк Гандэрлой: ADO и ADO.NET. Полное руководство</lit:name>
+	</tt:item>
+	<tt:item>
+		<tt:name>Разработка Web-приложений с использованием технологий ASP.NET</tt:name>
+		<tt:teacher>Осипов Н.А.</tt:teacher>
+		<tt:hours>50</tt:hours>
+		<tt:begin>2020-03-09</tt:begin>
+		<tt:end>2020-03-29</tt:end>
+		<tt:assessment>экзамен</tt:assessment>
+		<lit:name>Майк Гандэрлой: ADO и ADO.NET. Полное руководство</lit:name>
+	</tt:item>
+	<tt:item>
+		<tt:name>Разработка Web-приложений на HTML5, Javascript и CSS3</tt:name>
+		<tt:teacher>Ямщиков Д.В.</tt:teacher>
+		<tt:hours>50</tt:hours>
+		<tt:begin>2020-03-30</tt:begin>
+		<tt:end>2020-04-19</tt:end>
+		<tt:assessment>зачет</tt:assessment>
+		<lit:name>Программирование в ASP.NET Ajax. Кристиан Венц</lit:name>
+	</tt:item>
+	<tt:item>
+		<tt:name>СУБД Oracle(SQL,PL/SQL</tt:name>
+		<tt:teacher>Климанов В.А.</tt:teacher>
+		<tt:hours>50</tt:hours>
+		<tt:begin>2020-03-30</tt:begin>
+		<tt:end>2020-05-03</tt:end>
+		<tt:assessment>зачет</tt:assessment>
+		<lit:name>Oracle 11g. Основы — Рик Гринвальд, Роберт Стаковьяк, Джонатан Стерн</lit:name>
+	</tt:item>
+	<tt:item>
+		<tt:name>Программирование на C++</tt:name>
+		<tt:teacher>Осипов Н.А.</tt:teacher>
+		<tt:hours>65</tt:hours>
+		<tt:begin>2020-05-05</tt:begin>
+		<tt:end>2020-05-31</tt:end>
+		<tt:assessment>экзамен</tt:assessment>
+		<lit:name>Стивен Прата. Язык программирования C++. Лекции и упражнения</lit:name>
+	</tt:item>
+	<tt:item>
+		<tt:name>Программирование на Java</tt:name>
+		<tt:teacher>Дубаков А.А.</tt:teacher>
+		<tt:hours>65</tt:hours>
+		<tt:begin>2020-06-01</tt:begin>
+		<tt:end>2020-07-01</tt:end>
+		<tt:assessment>экзамен</tt:assessment>
+		<lit:name>Java. Эффективное программирование - Джошуа Блох</lit:name>
+	</tt:item>
+	<tt:item>
+		<tt:name>Дипломное проектирование</tt:name>
+		<tt:teacher>Руководители дипломных работ</tt:teacher>
+		<tt:hours>130</tt:hours>
+		<tt:begin>2020-07-10</tt:begin>
+		<tt:end>2020-09-14</tt:end>
+		<tt:assessment>оценка</tt:assessment>
+	</tt:item>
+</tt:timetable>

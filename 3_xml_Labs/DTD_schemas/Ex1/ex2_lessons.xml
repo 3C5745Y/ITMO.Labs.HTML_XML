@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE timetable SYSTEM "lessons.dtd">
+<timetable>
+	<item>
+		<name>Введение в базы данных</name>
+		<teacher>Ямщиков Д.В.</teacher>
+		<hours>30</hours>
+		<begin>2020-09-28</begin>
+		<end>2020-10-09</end>
+		<assessment>зачет</assessment>
+	</item>
+	<item>
+		<name>Технологии программирования</name>
+		<teacher>Смольянинов А.В.</teacher>
+		<hours>50</hours>
+		<begin>2020-10-13</begin>
+		<end>2020-10-30</end>
+		<assessment>зачет</assessment>
+	</item>
+	<item>
+		<name>Программирование на С#</name>
+		<teacher>Смольянинов А.В.</teacher>
+		<hours>50</hours>
+		<begin>2020-11-02</begin>
+		<end>2020--11-20</end>
+		<assessment>зачет</assessment>
+	</item>
+	<item>
+		<name>Transact-SQL и Разработка Microsoft SQL Server</name>
+		<teacher>Ямщиков Д.В.</teacher>
+		<hours>60</hours>
+		<begin>2020-11-30</begin>
+		<end>2020-12-25</end>
+		<assessment>экзамен</assessment>
+	</item>
+	<item>
+		<name>Основы технологий разметки (HTML, XML)</name>
+		<teacher>Смольянинов А.В.</teacher>
+		<hours>20</hours>
+		<begin>2020-01-11</begin>
+		<end>2020-01-18</end>
+		<assessment>зачет</assessment>
+	</item>
+	<item>
+		<name>Разработка Windows-приложений на C#</name>
+		<teacher>Смольянинов А.В.</teacher>
+		<hours>50</hours>
+		<begin>2020-01-19</begin>
+		<end>2020-02-05</end>
+		<assessment>экзамен</assessment>
+	</item>
+	<item>
+		<name>Программирование на Python</name>
+		<teacher>Осипов Н.А.</teacher>
+		<hours>40</hours>
+		<begin>2020-02-08</begin>
+		<end>2020-02-19</end>
+		<assessment>зачет</assessment>
+	</item>
+	<item>
+		<name>Технология ADO.NET</name>
+		<teacher>Ямщиков Д.В.</teacher>
+		<hours>40</hours>
+		<begin>2020-02-22</begin>
+		<end>2020-03-05</end>
+		<assessment>зачет</assessment>
+	</item>
+	<item>
+		<name>Разработка Web-приложений с использованием технологий ASP.NET</name>
+		<teacher>Осипов Н.А.</teacher>
+		<hours>50</hours>
+		<begin>2020-03-09</begin>
+		<end>2020-03-29</end>
+		<assessment>экзамен</assessment>
+	</item>
+	<item>
+		<name>Разработка Web-приложений на HTML5, Javascript и CSS3</name>
+		<teacher>Ямщиков Д.В.</teacher>
+		<hours>50</hours>
+		<begin>2020-03-30</begin>
+		<end>2020-04-19</end>
+		<assessment>зачет</assessment>
+	</item>
+	<item>
+		<name>СУБД Oracle(SQL,PL/SQL</name>
+		<teacher>Климанов В.А.</teacher>
+		<hours>50</hours>
+		<begin>2020-03-30</begin>
+		<end>2020-05-03</end>
+		<assessment>зачет</assessment>
+	</item>
+	<item>
+		<name>Программирование на C++</name>
+		<teacher>Осипов Н.А.</teacher>
+		<hours>65</hours>
+		<begin>2020-05-05</begin>
+		<end>2020-05-31</end>
+		<assessment>экзамен</assessment>
+	</item>
+	<item>
+		<name>Программирование на Java</name>
+		<teacher>Дубаков А.А.</teacher>
+		<hours>65</hours>
+		<begin>2020-06-01</begin>
+		<end>2020-07-01</end>
+		<assessment>экзамен</assessment>
+	</item>
+	<item>
+		<name>Дипломное проектирование</name>
+		<teacher>Руководители дипломных работ</teacher>
+		<hours>130</hours>
+		<begin>2020-07-10</begin>
+		<end>2020-09-14</end>
+		<assessment>оценка</assessment>
+	</item>
+</timetable>

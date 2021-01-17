@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE library SYSTEM "library.dtd">
+<library>
+	<book_catalog> 
+		<book id="B1" isbn="800-4-8796-1113-6" year="2020" issue="translation"> 
+			<authors>
+				<author>Клинтон Дэвид</author>
+			</authors>
+			<title>Linux в действии</title>
+			<publishing>Питер</publishing>
+			<annotation>&linux;</annotation>
+		</book>
+		<book id="B2" isbn="444-6-8886-1456-9" year="2019" issue="translation"> 
+			<authors>
+				<author>Douglas E Comer</author>
+			</authors>
+			<title>The Internet Book: Everything You Need to Know About Computer Networking and How the Internet Works 4th Edition</title>
+			<publishing>Pearson</publishing>
+			<annotation>&internet;</annotation>
+		</book>
+		<book id="B3" isbn="990-4-8766-6663-6" year="2020" issue="original"> 
+			<authors>
+				<author>Колисниченко Денис Николаевич</author>
+			</authors>
+			<title>Linux. От новичка к профессионалу</title>
+			<publishing>БХВ-Петербург</publishing>
+			<annotation>&linux;</annotation>
+		</book>
+	</book_catalog>
+	<author_catalog> 
+		<author_book idref="B1">Клинтон Дэвид</author_book>
+		<author_book idref="B2">Douglas E Comer</author_book>
+		<author_book idref="B3">Колисниченко Денис Николаевич</author_book>
+	</author_catalog>
+</library>
